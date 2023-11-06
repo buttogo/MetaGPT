@@ -44,3 +44,6 @@ ta==0.10.2
 semantic-kernel==0.3.13.dev0
 wrapt==1.15.0
 websocket-client==0.58.0
+nbclient==0.8.0
+nbformat==5.9.2
+ipykernel==6.26.0
